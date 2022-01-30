@@ -1,0 +1,6 @@
+[submodule "demo-streaming-API"]
+	path = demo-streaming-API
+	url = git@github.com:alexsc90/demo-streaming-API.git
+[submodule "demo-streaming-client"]
+	path = demo-streaming-client
+	url = git@github.com:alexsc90/demo-streaming-client.git
